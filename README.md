@@ -20,7 +20,7 @@ In order to create a "Belly Button Biodiversity Dashboard" web application that 
 > ![jumbotron_background](https://user-images.githubusercontent.com/77405273/116039369-81fd7300-a61f-11eb-9625-aaed991cea75.png)
 
 ###### Jumbotron Font Color
-> The Mars hemisphere images were added as thumbnails and when clicked, show the full resolution image.
+> The jumbotron text color was changed for better readability against the background.
 > ![jumbotron_text](https://user-images.githubusercontent.com/77405273/116039366-80cc4600-a61f-11eb-8799-f7c42bf60960.png)
 
 ###### Search Panel Background Color
