@@ -16,7 +16,7 @@ In order to create a "Belly Button Biodiversity Dashboard" web application that 
 ### Improved Web App Appearance
 
 ###### Jumbotron Background Image
-> The Mars hemisphere images were added as thumbnails and when clicked, show the full resolution image.
+> The jumbotron imgage was updated to include an engaging image.
 > ![jumbotron_background](https://user-images.githubusercontent.com/77405273/116039369-81fd7300-a61f-11eb-9625-aaed991cea75.png)
 
 ###### Jumbotron Font Color
