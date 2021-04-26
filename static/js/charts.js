@@ -127,13 +127,13 @@ function buildCharts(sample) {
     // Gauge starter code
     
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
-    // var resultArray = metadata.filter(sampleObj => sampleObj.id == sample);
+    var washArray = data.metadata.filter(sampleObj => sampleObj.id == sample);
 
     // // 2. Create a variable that holds the first sample in the metadata array.
-    // var firstResult = resultArray[0];
+    var washResult = washArray[0];
 
     // 3. Create a variable that holds the washing frequency.
-    var wfreq = firstResult.wfreq;
+    var wfreq = washResult.wfreq;
     
     // 4. Create the trace for the gauge chart.
     var gaugeData = [
@@ -145,7 +145,7 @@ function buildCharts(sample) {
         mode: "gauge+number", 
         gauge: {
           axis: { range: [null, 10] },
-          bar: { color: "darkgrey" },
+          bar: { color: "black" },
           steps: [
             { range: [0, 2], color: "red" },
             { range: [2, 4], color: "orange" },
