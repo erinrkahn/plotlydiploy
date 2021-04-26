@@ -24,6 +24,6 @@ In order to create a "Belly Button Biodiversity Dashboard" web application that 
 > ![jumbotron_text](https://user-images.githubusercontent.com/77405273/116039366-80cc4600-a61f-11eb-8799-f7c42bf60960.png)
 
 ###### Search Panel Background Color
-> The Mars hemisphere images were added as thumbnails and when clicked, show the full resolution image.
+> A grey background color was added to highlight the search panel.
 > ![search_panel](https://user-images.githubusercontent.com/77405273/116039373-832ea000-a61f-11eb-8eca-bc0c01e03ca5.png)
 
