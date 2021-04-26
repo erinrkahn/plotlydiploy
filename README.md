@@ -10,7 +10,8 @@ In order to create a "Belly Button Biodiversity Dashboard" web application that 
 
 ###### Belly Button Diversity Data Visualizations
 > A horizontal bar chart documents the top 10 sample values, the gauge indicates belly button washes per week, and the bubble chart indicates bacteria cultures per sample.
-> 
+> ![visualizations](https://user-images.githubusercontent.com/77405273/116039362-7f9b1900-a61f-11eb-9ffb-150f6db6be04.png)
+
 
 ### Improved Web App Appearance
 
